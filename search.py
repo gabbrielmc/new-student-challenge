@@ -5,7 +5,7 @@ from googleapiclient.discovery import build #for building the YouTube API servic
 from googleapiclient.errors import HttpError #for handling HTTP errors when accessing Google APIs
 
 # YouTube API credentials
-DEVELOPER_KEY = 'AIzaSyBfXYTsrbZ7o5gXYvxkfNVpkZdO42KoSao'
+DEVELOPER_KEY = #[removed]
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
