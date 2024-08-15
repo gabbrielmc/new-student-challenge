@@ -1,11 +1,10 @@
-#import necessary libraries
-import argparse #for handling command line arguments
-import csv #for working with csv files 
+import argparse 
+import csv 
 from googleapiclient.discovery import build #for building the YouTube API service
 from googleapiclient.errors import HttpError #for handling HTTP errors when accessing Google APIs
 
 # YouTube API credentials
-DEVELOPER_KEY = #[removed]
+DEVELOPER_KEY = #[INSERT DEVELOPER KEY HERE]
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
